@@ -1,0 +1,10 @@
+insert into persons (name, surname, age, phone_number, city_of_living) values ('Иван', 'Иванов', 6, '', 'Москва');
+insert into persons (name, surname, age, phone_number, city_of_living) values ('Ирина', 'Петрова', 23, '2222222222', 'Омск');
+insert into persons (name, surname, age, phone_number, city_of_living) values ('Пётр', 'Иванов', 2, '', '');
+insert into persons (name, surname, age, phone_number, city_of_living) values ('Алена', 'Тарасова', 21, '44444444444', 'Москва');
+insert into persons (name, surname, age, phone_number, city_of_living) values ('Тарас', 'Иванов', 46, '55555555555', 'Москва');
+insert into persons (name, surname, age, phone_number, city_of_living) values ('Павел', 'Иванов', 65, '66666666666', 'Уфа');
+insert into persons (name, surname, age, phone_number, city_of_living) values ('Иван', 'Петров', 17, '777777777777', 'Минск');
+insert into persons (name, surname, age, phone_number, city_of_living) values ('Ангелина', 'Сидорова', 34, '88888888888', 'Уфа');
+insert into persons (name, surname, age, phone_number, city_of_living) values ('Мария', 'Сергеева', 30, '99999999999', 'Москва');
+insert into persons (name, surname, age, phone_number, city_of_living) values ('Николай', 'Николаев', 15, '9876543210', 'Самара');
